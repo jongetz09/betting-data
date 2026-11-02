@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-11-02T19:02:09.550638+00:00",
+ "seasons": [
+  {
+   "id": "2026-27",
+   "path": "seasons/2026-27.json",
+   "graded": 0,
+   "first_date": "2026-11-02",
+   "last_date": "2026-11-02",
+   "sources": [
+    "live"
+   ]
+  },
+  {
+   "id": "2025-26",
+   "path": "seasons/2025-26.json",
+   "graded": 228,
+   "first_date": "2025-12-03",
+   "last_date": "2026-03-13",
+   "sources": [
+    "backtest"
+   ]
+  }
+ ]
+}
