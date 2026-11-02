@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T22:38:01.107297+00:00",
+ "generated_at": "2026-11-02T23:40:47.843616+00:00",
  "seasons": [
   {
    "id": "2026-27",
    "path": "seasons/2026-27.json",
    "graded": 0,
    "first_date": "2026-11-02",
-   "last_date": "2026-11-02",
+   "last_date": "2026-11-03",
    "sources": [
     "live"
    ]
@@ -15,8 +15,8 @@
   {
    "id": "2025-26",
    "path": "seasons/2025-26.json",
-   "graded": 176,
-   "first_date": "2025-12-03",
+   "graded": 535,
+   "first_date": "2025-11-10",
    "last_date": "2026-03-13",
    "sources": [
     "backtest"
@@ -25,9 +25,9 @@
   {
    "id": "2024-25",
    "path": "seasons/2024-25.json",
-   "graded": 166,
-   "first_date": "2024-12-05",
-   "last_date": "2025-03-13",
+   "graded": 527,
+   "first_date": "2024-11-10",
+   "last_date": "2025-04-02",
    "sources": [
     "backtest"
    ]
@@ -35,8 +35,8 @@
   {
    "id": "2023-24",
    "path": "seasons/2023-24.json",
-   "graded": 167,
-   "first_date": "2023-11-29",
+   "graded": 503,
+   "first_date": "2023-11-10",
    "last_date": "2024-03-16",
    "sources": [
     "backtest"
