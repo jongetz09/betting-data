@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "season": "2026-27",
- "generated_at": "2026-11-03T00:12:44.180068+00:00",
+ "generated_at": "2026-11-03T12:14:17.862177+00:00",
  "recommendations": [
   {
    "run_at": "2026-11-02T23:49:11.642900+00:00",
@@ -18,8 +18,8 @@
    "bet_team": "Fordham",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "loss",
+   "pnl": -1.0,
    "source": "live"
   }
  ]
