@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "season": "2026-27",
- "generated_at": "2026-11-05T19:35:01.624326+00:00",
+ "generated_at": "2026-11-05T20:04:38.683697+00:00",
  "recommendations": [
   {
    "run_at": "2026-11-02T23:49:11.642900+00:00",
@@ -170,6 +170,28 @@
    "public_home_pct": null,
    "bet_side": "away",
    "bet_team": "Mercer",
+   "signals": "tier1_tail",
+   "units": 1.0,
+   "result": null,
+   "pnl": null,
+   "market": "spread",
+   "market_total": null,
+   "torvik_total": null,
+   "source": "live"
+  },
+  {
+   "run_at": "2026-11-05T20:03:44.571766+00:00",
+   "game_date": "2026-11-06",
+   "season": 2027,
+   "home": "Kentucky",
+   "away": "James Madison",
+   "conference": "SEC",
+   "market_spread": 23.5,
+   "torvik_spread": 14.26,
+   "gap": -9.24,
+   "public_home_pct": null,
+   "bet_side": "away",
+   "bet_team": "James Madison",
    "signals": "tier1_tail",
    "units": 1.0,
    "result": null,
