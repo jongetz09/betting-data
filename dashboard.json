@@ -1,15 +1,15 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T14:01:08.888540+00:00",
+ "generated_at": "2026-11-08T08:31:18.938483+00:00",
  "pipeline_run": {
-  "run_at": "2026-11-07T14:00:19.751865+00:00",
-  "window_start": "2026-11-07",
-  "window_end": "2026-11-14",
-  "games_seen": 371,
-  "with_spread": 49,
-  "rated": 49,
-  "bets_found": 3,
-  "graded": 0
+  "run_at": "2026-11-08T08:30:22.922589+00:00",
+  "window_start": "2026-11-08",
+  "window_end": "2026-11-15",
+  "games_seen": 357,
+  "with_spread": 18,
+  "rated": 18,
+  "bets_found": 0,
+  "graded": 3
  },
  "recommendations": [
   {
@@ -405,8 +405,8 @@
    "bet_team": "Bethune Cookman",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "win",
+   "pnl": 0.909,
    "market": "spread",
    "market_total": null,
    "torvik_total": null
@@ -426,8 +426,8 @@
    "bet_team": "Bellarmine",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "win",
+   "pnl": 0.909,
    "market": "spread",
    "market_total": null,
    "torvik_total": null
@@ -447,8 +447,8 @@
    "bet_team": "Northwestern St.",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "win",
+   "pnl": 0.909,
    "market": "spread",
    "market_total": null,
    "torvik_total": null
