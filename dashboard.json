@@ -1,15 +1,15 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T06:07:34.056625+00:00",
+ "generated_at": "2026-11-10T08:31:26.234720+00:00",
  "pipeline_run": {
-  "run_at": "2026-11-10T06:06:46.546601+00:00",
+  "run_at": "2026-11-10T08:30:33.679592+00:00",
   "window_start": "2026-11-10",
   "window_end": "2026-11-17",
   "games_seen": 372,
   "with_spread": 56,
   "rated": 56,
-  "bets_found": 11,
-  "graded": 6
+  "bets_found": 12,
+  "graded": 0
  },
  "recommendations": [
   {
@@ -669,6 +669,29 @@
    "public_home_pct": null,
    "bet_side": "away",
    "bet_team": "Little Rock",
+   "signals": "tier1_tail",
+   "units": 1.0,
+   "result": null,
+   "pnl": null,
+   "market": "spread",
+   "market_total": null,
+   "torvik_total": null,
+   "home_score": null,
+   "away_score": null
+  },
+  {
+   "run_at": "2026-11-10T08:30:33.679592+00:00",
+   "game_date": "2026-11-10",
+   "season": 2027,
+   "home": "Rutgers",
+   "away": "NJIT",
+   "conference": "B10",
+   "market_spread": 24.5,
+   "torvik_spread": 27.26,
+   "gap": 2.76,
+   "public_home_pct": null,
+   "bet_side": "away",
+   "bet_team": "NJIT",
    "signals": "tier1_tail",
    "units": 1.0,
    "result": null,
