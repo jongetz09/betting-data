@@ -1,15 +1,15 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T08:31:19.650842+00:00",
+ "generated_at": "2026-11-13T11:31:09.039379+00:00",
  "pipeline_run": {
-  "run_at": "2026-11-13T08:30:28.758768+00:00",
+  "run_at": "2026-11-13T11:30:21.392771+00:00",
   "window_start": "2026-11-13",
   "window_end": "2026-11-20",
   "games_seen": 378,
   "with_spread": 55,
   "rated": 54,
   "bets_found": 12,
-  "graded": 6
+  "graded": 0
  },
  "recommendations": [
   {
