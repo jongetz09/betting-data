@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T14:01:19.734173+00:00",
+ "generated_at": "2026-11-14T08:31:10.690704+00:00",
  "seasons": [
   {
    "id": "2026-27",
    "path": "seasons/2026-27.json",
-   "graded": 53,
+   "graded": 66,
    "first_date": "2026-11-02",
-   "last_date": "2026-11-13",
+   "last_date": "2026-11-14",
    "sources": [
     "live"
    ]
