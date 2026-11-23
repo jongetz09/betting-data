@@ -1,15 +1,15 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T05:25:48.302926+00:00",
+ "generated_at": "2026-11-23T08:31:14.479440+00:00",
  "pipeline_run": {
-  "run_at": "2026-11-23T05:25:05.270948+00:00",
+  "run_at": "2026-11-23T08:30:30.297969+00:00",
   "window_start": "2026-11-23",
   "window_end": "2026-11-30",
-  "games_seen": 343,
-  "with_spread": 38,
-  "rated": 38,
-  "bets_found": 6,
-  "graded": 5
+  "games_seen": 345,
+  "with_spread": 40,
+  "rated": 40,
+  "bets_found": 7,
+  "graded": 0
  },
  "recommendations": [
   {
@@ -3314,6 +3314,29 @@
    "public_home_pct": 0.0,
    "bet_side": "home",
    "bet_team": "North Florida",
+   "signals": "tier3_early_dog",
+   "units": 0.75,
+   "result": null,
+   "pnl": null,
+   "market": "spread",
+   "market_total": null,
+   "torvik_total": null,
+   "home_score": null,
+   "away_score": null
+  },
+  {
+   "run_at": "2026-11-23T08:30:30.297969+00:00",
+   "game_date": "2026-11-23",
+   "season": 2027,
+   "home": "Tennessee Martin",
+   "away": "Temple",
+   "conference": "OVC",
+   "market_spread": -4.5,
+   "torvik_spread": 8.89,
+   "gap": 13.39,
+   "public_home_pct": 0.0,
+   "bet_side": "home",
+   "bet_team": "Tennessee Martin",
    "signals": "tier3_early_dog",
    "units": 0.75,
    "result": null,
