@@ -1,15 +1,15 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T02:01:26.929964+00:00",
+ "generated_at": "2026-11-25T05:01:11.521638+00:00",
  "pipeline_run": {
-  "run_at": "2026-11-25T02:00:37.498344+00:00",
+  "run_at": "2026-11-25T05:00:28.564501+00:00",
   "window_start": "2026-11-25",
   "window_end": "2026-12-02",
-  "games_seen": 360,
-  "with_spread": 54,
-  "rated": 52,
-  "bets_found": 3,
-  "graded": 2
+  "games_seen": 362,
+  "with_spread": 56,
+  "rated": 54,
+  "bets_found": 4,
+  "graded": 5
  },
  "recommendations": [
   {
@@ -3362,13 +3362,13 @@
    "bet_team": "Auburn",
    "signals": "tier5_blowout_fade",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "win",
+   "pnl": 0.909,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null
+   "home_score": 101,
+   "away_score": 66
   },
   {
    "run_at": "2026-11-24T05:00:40.184770+00:00",
@@ -3385,13 +3385,13 @@
    "bet_team": "Idaho St.",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "win",
+   "pnl": 0.909,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null
+   "home_score": 88,
+   "away_score": 71
   },
   {
    "run_at": "2026-11-24T05:00:40.184770+00:00",
@@ -3408,13 +3408,13 @@
    "bet_team": "Gardner Webb",
    "signals": "tier5_blowout_fade",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "loss",
+   "pnl": -1.0,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null
+   "home_score": 91,
+   "away_score": 65
   },
   {
    "run_at": "2026-11-24T02:00:31.197124+00:00",
@@ -3431,13 +3431,13 @@
    "bet_team": "UTEP",
    "signals": "tier5_blowout_fade",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "win",
+   "pnl": 0.909,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null
+   "home_score": 69,
+   "away_score": 80
   },
   {
    "run_at": "2026-11-24T02:00:31.197124+00:00",
@@ -3454,13 +3454,13 @@
    "bet_team": "Central Michigan",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "win",
+   "pnl": 0.909,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null
+   "home_score": 88,
+   "away_score": 70
   },
   {
    "run_at": "2026-11-24T02:00:31.197124+00:00",
@@ -3507,6 +3507,29 @@
    "torvik_total": null,
    "home_score": 73,
    "away_score": 27
+  },
+  {
+   "run_at": "2026-11-25T05:00:28.564501+00:00",
+   "game_date": "2026-11-25",
+   "season": 2027,
+   "home": "South Dakota",
+   "away": "Arkansas Pine Bluff",
+   "conference": "Sum",
+   "market_spread": 21.5,
+   "torvik_spread": 13.26,
+   "gap": -8.24,
+   "public_home_pct": 0.0,
+   "bet_side": "away",
+   "bet_team": "Arkansas Pine Bluff",
+   "signals": "tier1_tail",
+   "units": 1.0,
+   "result": null,
+   "pnl": null,
+   "market": "spread",
+   "market_total": null,
+   "torvik_total": null,
+   "home_score": null,
+   "away_score": null
   },
   {
    "run_at": "2026-11-25T02:00:37.498344+00:00",
