@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "season": "2026-27",
- "generated_at": "2026-11-25T14:51:07.972887+00:00",
+ "generated_at": "2026-11-26T02:01:22.295253+00:00",
  "recommendations": [
   {
    "run_at": "2026-11-02T23:49:11.642900+00:00",
@@ -3666,13 +3666,13 @@
    "bet_team": "Arkansas Pine Bluff",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "loss",
+   "pnl": -1.0,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null,
+   "home_score": 86,
+   "away_score": 50,
    "source": "live"
   },
   {
@@ -3690,13 +3690,13 @@
    "bet_team": "Abilene Christian",
    "signals": "tier5_blowout_fade",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "win",
+   "pnl": 0.909,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null,
+   "home_score": 95,
+   "away_score": 101,
    "source": "live"
   },
   {
@@ -3714,13 +3714,13 @@
    "bet_team": "Alcorn St.",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "loss",
+   "pnl": -1.0,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null,
+   "home_score": 97,
+   "away_score": 70,
    "source": "live"
   },
   {
@@ -3738,13 +3738,13 @@
    "bet_team": "Northeastern",
    "signals": "tier1_tail",
    "units": 1.0,
-   "result": null,
-   "pnl": null,
+   "result": "loss",
+   "pnl": -1.0,
    "market": "spread",
    "market_total": null,
    "torvik_total": null,
-   "home_score": null,
-   "away_score": null,
+   "home_score": 91,
+   "away_score": 54,
    "source": "live"
   }
  ]
